@@ -1,70 +1,42 @@
-# 👋 Hi, I'm Elmont!
+# Hi there, I'm Elmont 👋
 
-### 💻 Aspiring Full Stack Developer | DevOps & Cloud Engineering Learner
+I'm a Software Developer interested in building modern web applications and solving real-world problems through technology.
 
-I'm an aspiring software engineer passionate about building web and mobile applications, learning cloud technologies, and improving my problem-solving skills.
+### 👨‍💻 About Me
 
-- 🚀 Currently learning Full Stack Development
-- ☁️ Exploring DevOps, AWS, Docker, Kubernetes, and CI/CD
-- 🌐 Interested in Backend Development, System Design, and Cloud Infrastructure
-- 📱 Exploring Flutter and React Native for mobile development
-- 🎯 Goal: Become a professional Software Engineer and DevOps / Cloud Engineer
-- 📚 Always learning and building projects to improve my skills
-
----
+- 💻 Interested in Full Stack Web Development.
+- 🌱 Continuously improving my programming and software development skills.
+- 🚀 Enjoy building projects and exploring new technologies.
+- 🧩 Interested in writing clean, maintainable, and efficient code.
+- 🤝 Open to collaboration and learning from other developers.
 
 ### 🛠️ Tech Stack
 
 **Languages**
-  
-JavaScript · TypeScript · Java · Python · PHP · Dart
+- JavaScript, TypeScript, PHP, Python
 
-**Frontend Development**
+**Frontend**
+- HTML, CSS, React.js, Next.js, Bootstrap, Tailwind CSS
 
-React · Next.js · Tailwind CSS · HTML · CSS
-
-**Backend Development**
-
-Node.js · Express.js · NestJS · Spring Boot · Laravel
-
-**Mobile Development**
-
-Flutter · React Native
+**Backend**
+- Node.js, Express.js, Laravel
 
 **Databases**
+- MySQL, MongoDB, PostgreSQL
 
-MongoDB · MySQL · PostgreSQL
+**Tools**
+- Git, GitHub, VS Code, Postman
 
-**DevOps & Cloud**
+### 📊 GitHub Statistics
 
-Git · GitHub · Linux · Docker · AWS · GitHub Actions · Terraform · Kubernetes
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elmont2004&show_icons=true&theme=default)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elmont2004&layout=compact&theme=default)
 
-### 📂 Featured Projects
+### 📫 Connect With Me
 
-- 🛍️ **E-commerce Application** — Full Stack Web Development
-- 🌐 **Developer Portfolio** — Showcasing my projects and skills
-- ☁️ **DevOps Projects** — CI/CD pipelines and cloud infrastructure labs
-
-*Replace these examples with links to your actual repositories.*
+- GitHub: [@elmont2004](https://github.com/elmont2004)
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
-
----
-
-### 🌐 Connect With Me
-
-- 💻 GitHub: https://github.com/elmontdev
-
----
-
-⭐ *Keep learning, keep building, and keep growing!*
+*Building, learning, and improving every day.*
